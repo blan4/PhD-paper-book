@@ -3,4 +3,5 @@
 * [Abstract](README.md)
 * [Введение](vvedenie.md)
 * [Глава 1. История проблемы](glava-1.-istoriya-problemy.md)
+* [Глава 2. Математические модели феномена](glava-2.-matematicheskie-modeli-fenomena.md)
 
