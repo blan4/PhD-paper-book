@@ -7,4 +7,5 @@
 * [Глава 3. Слепое разделение сигнала](glava-3.-slepoe-razdelenie-signala.md)
 * [Глава 4. Приложение разделения сигналов](glava-4.-prilozhenie-razdeleniya-signalov.md)
 * [Заключение](zaklyuchenie.md)
+* [Список литературы](spisok-literatury.md)
 
