@@ -9,3 +9,8 @@
 * [Глава 5. Композиция методов](glava-5.-kompozitsiya-metodov.md)
 * [Глава 6. Приложение разделения сигналов](glava-6.-prilozhenie-razdeleniya-signalov.md)
 * [Заключение](zaklyuchenie.md)
+* [Практическая часть](prakticheskaya-chast.md)
+* [Синхронизация звуковых дорожек](sinhronizatsiya-zvukovih-dorozhek.md)
+* [Вычитание фоновой музыки из аудиозаписи](vichitanie-fonovoi-muziki-iz-audiozapisi.md)
+* [Динамическая система микрофонов](dinamicheskaya-sistema-mikrofonov.md)
+
