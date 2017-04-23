@@ -8,6 +8,6 @@
 * [Глава 4. Определние координат источника звука](glava-4-opredelnie-koordinat-istochnika-zvuka.md)
 * [Глава 5. Композиция методов](glava-5-kompozitsiya-metodov.md)
 * [Глава 6. Приложение разделения сигналов](glava-4.-prilozhenie-razdeleniya-signalov.md)
-* [Заключение](zaklyuchenie.md)
+* [Глава 6. Композиция методов](glava-5-kompozitsiya-metodov.md)
 * [Глава 6. Композиция методов](glava-5-kompozitsiya-metodov.md)
 
