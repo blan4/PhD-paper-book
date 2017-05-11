@@ -10,8 +10,9 @@
 * [Глава 6. Приложение разделения сигналов](glava-6.-prilozhenie-razdeleniya-signalov.md)
 * [Заключение](zaklyuchenie.md)
 * [Практическая часть](prakticheskaya-chast.md)
-* [Синхронизация звуковых дорожек](sinhronizatsiya-zvukovih-dorozhek.md)
-* [Вычитание фоновой музыки из аудиозаписи](vichitanie-fonovoi-muziki-iz-audiozapisi.md)
-* [Динамическая система микрофонов](dinamicheskaya-sistema-mikrofonov.md)
+    * [Синхронизация звуковых дорожек](sinhronizatsiya-zvukovih-dorozhek.md)
+    * [Вычитание фоновой музыки из аудиозаписи](vichitanie-fonovoi-muziki-iz-audiozapisi.md)
+    * [Динамическая система микрофонов](dinamicheskaya-sistema-mikrofonov.md)
 * [Список литературы](spisok-literaturi.md)
-
+* Публикации
+    * [Тезисы. Методы декомпозиции звукового сигнала](/publications/metodi_decomposizii_zvukovogo_signala__24.04.2017.md)
