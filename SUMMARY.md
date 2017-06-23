@@ -16,3 +16,4 @@
 * [Список литературы](spisok-literaturi.md)
 * Публикации
     * [Тезисы. Методы декомпозиции звукового сигнала](/publications/metodi_decomposizii_zvukovogo_signala__24.04.2017.md)
+    * [Реферат по философии. Машинное обучение как метод создания искусственного интеллекта](/publications/machine_learning_as_a_method_to_create_ai.md)
