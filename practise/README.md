@@ -6,7 +6,3 @@
 
 * [Синхронизация звуковых дорожек](/sinhronizatsiya-zvukovih-dorozhek.md)
 * [Вычитание фоновой музыки из аудиозаписи](/vichitanie-fonovoi-muziki-iz-audiozapisi.md)
-* [Динамическая система микрофонов](/dinamicheskaya-sistema-mikrofonov.md)
-
-
-
